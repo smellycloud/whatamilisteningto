@@ -17,7 +17,7 @@ Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019). The MTG-Jamend
 | VGG19               | 0.590024       | 0.886725 | 0.247987 | 0.108169 |
 | EfficientNetV2-B0   | 0.568208       | 0.893232 | 0.216523 | 0.067312 |
 | Xception            | 0.604870       | 0.874622 | 0.274456 | 0.145906 |
-| DenseNet-201 | 9 0.626052       | 0.902065 | 0.288641 | 0.119026 |
+| DenseNet-201 | 0.626052       | 0.902065 | 0.288641 | 0.119026 |
 
 # Mood/Theme Classification Metrics
 | Model Architecture  | Top-4 accuracy | ROC-AUC  | PR-AUC   | F-Score  |
