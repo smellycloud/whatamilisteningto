@@ -32,18 +32,19 @@ Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019). The MTG-Jamend
 
 
 # Genre Predictions
+![preds_g1](https://github.com/smellycloud/whatamilisteningto/assets/52908667/72c3a97e-2108-4d0d-b86b-1a2a8dfb81a3)
+![preds_g2](https://github.com/smellycloud/whatamilisteningto/assets/52908667/a515c444-fc93-430a-aefc-b129652c6938)
+![preds_g3](https://github.com/smellycloud/whatamilisteningto/assets/52908667/ce3b9ba7-74e8-4ea8-bbb8-2721b688a0bf)
+![preds_g4](https://github.com/smellycloud/whatamilisteningto/assets/52908667/98f8cc90-6305-460e-aac7-9120dc9967ec)
 
-![preds_g1](https://github.com/smellycloud/whatamilisteningto/assets/52908667/20bed742-0f17-47f4-b2bd-3ea2c83b255f)
-![preds_g2](https://github.com/smellycloud/whatamilisteningto/assets/52908667/72805477-0861-4c8c-b1ec-1496a12bb153)
-![preds_g3](https://github.com/smellycloud/whatamilisteningto/assets/52908667/23a4041d-ff0b-491e-be58-62d87575755a)
-![preds_g4](https://github.com/smellycloud/whatamilisteningto/assets/52908667/c4dc7050-ab7f-48b9-ba6e-9e985130c7da)
+
 
 
 
 # Mood/Theme Predictions
 
-![preds_m1](https://github.com/smellycloud/whatamilisteningto/assets/52908667/756126f6-becc-4bcf-ac19-01851fa4551f)
-![preds_m6](https://github.com/smellycloud/whatamilisteningto/assets/52908667/194c7bf0-771e-4d01-bc57-1840842fff52)
-![preds_m2](https://github.com/smellycloud/whatamilisteningto/assets/52908667/2d482742-591b-4e72-b01c-2cc503d0fcbf)
-![preds_m5](https://github.com/smellycloud/whatamilisteningto/assets/52908667/76f95294-f1b0-4edd-b91d-e6e21e8242e1)
+![preds_m1](https://github.com/smellycloud/whatamilisteningto/assets/52908667/dd1e0713-3ff7-44e9-b1c7-6cd34ba8e3ef)
+![preds_m6](https://github.com/smellycloud/whatamilisteningto/assets/52908667/e2036ef0-4468-47da-8501-d845818da379)
+![preds_m2](https://github.com/smellycloud/whatamilisteningto/assets/52908667/324f8de9-45ce-437d-b359-c89e810fd449)
+![preds_m3](https://github.com/smellycloud/whatamilisteningto/assets/52908667/50766015-8262-4de1-b300-f37b84ba0f32)
 
