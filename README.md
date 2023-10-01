@@ -1,5 +1,5 @@
 # whatamilisteningto
-This project focuses on music classification using mel-spectrograms, specifically targeting music genre and mood/theme recognition. Spectrograms, visual representations of audio data, are fed into deep learning models for classification. The project utilizes popular convolutional neural networks (CNNs) and explores the effectiveness of transfer learning with pre-trained models.
+This project focuses on music classification using mel-spectrograms, specifically targeting music genre and mood/theme recognition. Spectrograms, visual representations of audio data, are fed into deep learning models for classification. The project utilises popular convolutional neural networks (CNNs) and explores the effectiveness of transfer learning with pre-trained models.
 
 # Dataset source
 Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019). The MTG-Jamendo Dataset for Automatic Music Tagging. Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019).
